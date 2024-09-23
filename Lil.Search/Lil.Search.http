@@ -1,0 +1,6 @@
+@Lil.Search_HostAddress = http://localhost:5268
+
+GET {{Lil.Search_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

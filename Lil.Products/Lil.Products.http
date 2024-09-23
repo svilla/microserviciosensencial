@@ -1,0 +1,6 @@
+@Lil.Products_HostAddress = http://localhost:5013
+
+GET {{Lil.Products_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
